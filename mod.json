@@ -5,7 +5,8 @@
 	"id": "izzy.practice_sync",
 	"name": "Practice Sync",
 	"developer": "izzy",
-	"description": "Allows you to force unlock the Practice Mode Sync.",
+	"description": "Simple mod that allows you to force unlock the Practice Mode Sync.",
+	"repository": "https://github.com/snowyzia/practice-sync",
 	"settings": {
 		"mod-enabled": {
 			"name": "Mod Enabled?",
